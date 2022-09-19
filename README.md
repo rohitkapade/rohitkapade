@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Passionate Java Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkapade&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkapade" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkapade" alt="rohitkapade" /></a> </p>
-
 - 🔭 I’m currently working on **Wallet application**
 
 - 🌱 I’m currently learning **Springboot,Hibernate,Maven**
