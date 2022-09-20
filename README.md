@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rohitkapade.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif))](https://rohitkapade.io)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Passionate Java Backend Developer</h3>
 
