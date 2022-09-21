@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Passionate Java Backend Developer</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
+<img src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" alt="">
 
 - 🔭 I’m currently working on **Wallet application**
 
