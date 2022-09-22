@@ -1,24 +1,22 @@
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">Aspiring Java Backend Developer</h3>
+<h3 align="center">Aspiring Java Developer</h3>
 
-<!-- <img style="height:180px" src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" alt=""> -->
-    
-    - 🔭 I’m currently working on **Wallet application**
-    
-    - 🌱 I’m currently learning **Springboot,Hibernate,Maven**
-    
-    - 👨‍💻 All of my projects are available at [rohitkapade.github.io](rohitkapade.github.io)
-    
-    - 💬 Ask me about **Javascript,Java**
-    
-    - 📫 How to reach me **rohitkapade1512@gmail.com**
-    
- 
+- 🔭 I’m currently working on **Wallet application**
+
+- 🌱 I’m currently learning **SQL, Maven , Hibernate**
+
+- 👨‍💻 All of my projects are available at [https://rohitkapade.github.io/](https://rohitkapade.github.io/)
+
+- 💬 Ask me about **Java, Javascript**
+
+- 📫 How to reach me **rohitkapade1512@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zLiqADoTIDCdIhsaiFzT992EGKqH1XKu/view?usp=sharing](https://drive.google.com/file/d/1zLiqADoTIDCdIhsaiFzT992EGKqH1XKu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohit-kapade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kapade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohit kapade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kapade" height="30" width="40" /></a>
 <a href="https://instagram.com/rohitt5165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohitt5165" height="30" width="40" /></a>
 </p>
 
