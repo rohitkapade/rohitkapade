@@ -1,8 +1,8 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rohitkapade.io) -->
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">Passionate Java Backend Developer</h3>
+<h3 align="center">Aspiring Java Backend Developer</h3>
 
-<img src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" alt="">
+<img style="height:180px" src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" alt="">
     
     - 🔭 I’m currently working on **Wallet application**
     
