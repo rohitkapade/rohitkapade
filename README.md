@@ -2,19 +2,20 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Passionate Java Backend Developer</h3>
 
-<img align="centre" style="height:180px; width:80%; margin-left:50px" src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg" alt="">
-
-- 🔭 I’m currently working on **Wallet application**
-
-- 🌱 I’m currently learning **Springboot,Hibernate,Maven**
-
-- 👨‍💻 All of my projects are available at [rohitkapade.github.io](rohitkapade.github.io)
-
-- 💬 Ask me about **Javascript,Java**
-
-- 📫 How to reach me **rohitkapade1512@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zLiqADoTIDCdIhsaiFzT992EGKqH1XKu/view?usp=sharing](https://drive.google.com/file/d/1zLiqADoTIDCdIhsaiFzT992EGKqH1XKu/view?usp=sharing)
+ <div style="height:auto; ">
+        <div style="width: 55%; height: auto;">- 🔭 I’m currently working on **Wallet application**
+    
+            - 🌱 I’m currently learning **Springboot,Hibernate,Maven**
+            
+            - 👨‍💻 All of my projects are available at [rohitkapade.github.io](rohitkapade.github.io)
+            
+            - 💬 Ask me about **Javascript,Java**
+            
+            - 📫 How to reach me **rohitkapade1512@gmail.com**
+            
+            - 📄 Know about my experiences [https://drive.google.com/file/d/1zLiqADoTIDCdIhsaiFzT992EGKqH1XKu/view?usp=sharing](https://drive.google.com/file/d/1zLiqADoTIDCdIhsaiFzT992EGKqH1XKu/view?usp=sharing)</div>
+        <div style="width: 45%; height: auto;"><img src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" alt=""></div>
+    </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
