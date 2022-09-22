@@ -14,7 +14,7 @@
     
     - 📫 How to reach me **rohitkapade1512@gmail.com**
     
-    - 📄 Know about my experiences https://drive.google.com/file/d/1zLiqADoTIDCdIhsaiFzT992EGKqH1XKu/view?usp=sharing
+    - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1zLiqADoTIDCdIhsaiFzT992EGKqH1XKu/view?usp=sharing">Click me</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
