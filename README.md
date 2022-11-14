@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Wallet application**
 
-- 🌱 I’m currently learning **SQL, Maven , Hibernate**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at <a href="https://rohitkapade.github.io/">Portfolio</a>                   
 
