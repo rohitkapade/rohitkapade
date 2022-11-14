@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **SQL, Maven , Hibernate**
 
-- 👨‍💻 All of my projects are available at (https://rohitkapade.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://rohitkapade.github.io/">Portfolio</a>                   
 
 - 💬 Ask me about **Java, Javascript**
 
