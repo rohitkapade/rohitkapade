@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center"><b>Determined and commitment oriented Java Developer with expertise in building Website and application architecture from scratch. Ability to finish projects within a timeframe.</b></h3>
+<h3 align="center"><b>Determined and commitment oriented Java Developer with expertise in building Website and application architecture from scratch. Possess ability to finish projects within a timeframe with accuracy.</b></h3>
 
 - 🔭 I’m currently working on **Wallet application**
 
