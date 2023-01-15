@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center"><b>Eager and highly motivated Java Backend Developer with good expertise in website architecture design and web API design. Passionate about application development. Flexible, Detail-Oriented and the ability to finish projects within a tight timeframe.<>/b</h3>
+<h3 align="center"><b>Determined and commitment oriented Java Developer with expertise in building Website and application architecture from scratch. Ability to finish projects within a timeframe.</b></h3>
 
 - 🔭 I’m currently working on **Wallet application**
 
