@@ -6,6 +6,8 @@
 
 <h3 align="center"><b>Determined and commitment oriented Java Developer with expertise in building Website and application architecture from scratch. Possess ability to finish projects within a timeframe with accuracy.</b></h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukundjha1310&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
+
 - 🔭 I’m currently working on **Wallet application**
 
 - 🌱 I’m currently learning **Spring Boot**
