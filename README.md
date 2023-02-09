@@ -106,6 +106,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkapade&" alt="rohitkapade" /> -->
 
+<h2 align="center">Thank you for visiting my GitHub profile.</h2>
 
 ![](https://komarev.com/ghpvc/?username=rohitkapade)
 
