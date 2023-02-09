@@ -6,7 +6,7 @@
 
 <h3 align="center"><b>Determined and commitment oriented Java Developer with expertise in building Website and application architecture from scratch. Possess ability to finish projects within a timeframe with accuracy.</b></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukundjha1310&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
+<img src="https://user-images.githubusercontent.com/105915717/192617762-4a3e755e-e814-484b-a365-5d139d116bd1.gif" alt="Coding" align="right" width="40%"/>
 
 - 🔭 I’m currently working on **Wallet application**
 
