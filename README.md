@@ -77,14 +77,34 @@
 </table>
 </div> 
 
+<h3>Statistical Data :</h3>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitkapade&count_private=true&theme=algolia" alt="rohitkapade's GitHub stats" width="60%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkapade&langs_count=8&theme=algolia" alt="rohitkapade's GitHub stats" width="40%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkapade&theme=algolia" alt="rohitkapade's GitHub stats" width="60%"/>
+</div>
+
+<br>
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkapade&show_icons=true&locale=en&layout=compact" alt="rohitkapade" />
+
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkapade&show_icons=true&locale=en&layout=compact" alt="rohitkapade" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkapade&show_icons=true&locale=en" alt="rohitkapade" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkapade&" alt="rohitkapade" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkapade&" alt="rohitkapade" /> -->
 
 
 ![](https://komarev.com/ghpvc/?username=rohitkapade)
