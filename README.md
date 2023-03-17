@@ -78,17 +78,7 @@
 </div> 
 
 <h3>Statistical Data :</h3>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitkapade&count_private=true&theme=algolia" alt="rohitkapade's GitHub stats" width="60%"/>
-</div>
 
-<br>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkapade&langs_count=8&theme=algolia" alt="rohitkapade's GitHub stats" width="40%"/>
-</div>
 
 <br>
 
