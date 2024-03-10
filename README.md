@@ -43,11 +43,11 @@
 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
 </td>
 <td width="25%" align="center">
-<span><b>HIBERNATE</b></span><br><br>
-<img height="64px" src="https://hibernate.org/images/hibernate-logo.svg">
+<span><b>Python</b></span><br><br>
+<img height="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw2ItmXEdXuJ09ctBZ7Oj55b&ust=1710147765819000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICWrYKr6YQDFQAAAAAdAAAAABAE">
 </td>
 <td width="25%" align="center">
-<span><b>SpringBoot</b></span><br><br>
+<span><b>ReactJS</b></span><br><br>
 <img height="64px" src="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fspring-icon-256x256-2efvkvky.png&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F4468%2Fspring-boot&tbnid=ASw-FVXaD9tkOM&vet=12ahUKEwi4s8ysxIj9AhVPKbcAHZ1xDtsQMygBegUIARDFAQ..i&docid=Z7BWvOtTRgGdXM&w=256&h=256&q=spring%20boot%20icon%20svg&ved=2ahUKEwi4s8ysxIj9AhVPKbcAHZ1xDtsQMygBegUIARDFAQ">
 </td>
 </tr>
