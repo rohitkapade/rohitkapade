@@ -40,8 +40,7 @@
 </td>
 <td width="25%" align="center">
 <span><b>ReactJS</b></span><br><br>
-<img height="64px" src="![react](https://github.com/rohitkapade/To_Do_App/assets/101393249/b4b3d718-0600-40b9-bcc5-13f88bd4e6c4)
-">
+<img height="64px" src="https://github.com/rohitkapade/To_Do_App/assets/101393249/b4b3d718-0600-40b9-bcc5-13f88bd4e6c4">
 </td>
 <td width="25%" align="center">
 <span><b>JAVA</b></span><br><br>
