@@ -36,7 +36,7 @@
 <tr valign="top">
 <td width="25%" align="center">
 <span><b>Python</b></span><br><br>
-<img height="64px" src="https://icons8.com/icon/13441/python">
+<img height="64px" src="https://icons8.com/icon/13441/python](https://github.com/rohitkapade/To_Do_App/assets/101393249/69f5460c-2085-4fda-a669-b327728d2eaf">
 </td>
 <td width="25%" align="center">
 <span><b>ReactJS</b></span><br><br>
