@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Wallet application**
 
-- 🌱 I’m currently learning **Reddis, Nginx**
+- 🌱 I’m currently learning **Redis, Nginx**
 
 - 👨‍💻 All of my projects are available at <a href="https://rohitkapade.github.io/">Portfolio</a>                   
 
