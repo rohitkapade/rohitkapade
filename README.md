@@ -4,17 +4,17 @@
 
 <p align="center"><a align="center" href="https://rohitkapade.github.io/"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile...!;Click+to+visit+my+Portfolio..." /></a></p>
 
-<h3 align="center"><b>Determined and commitment oriented Java Developer with expertise in building Website and application architecture from scratch. Possess ability to finish projects within a timeframe with accuracy.</b></h3>
+<h3 align="center"><b>Determined and commitment oriented Developer with expertise in building Website and application architecture from scratch. Possess ability to finish projects within a timeframe with accuracy.</b></h3>
 
 <img src="https://user-images.githubusercontent.com/105915717/192617762-4a3e755e-e814-484b-a365-5d139d116bd1.gif" alt="Coding" align="right" width="40%"/>
 
 - 🔭 I’m currently working on **Wallet application**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Reddis, Nginx**
 
 - 👨‍💻 All of my projects are available at <a href="https://rohitkapade.github.io/">Portfolio</a>                   
 
-- 💬 Ask me about **Java, Javascript**
+- 💬 Ask me about **Python, Java, Javascript**
 
 - 📫 How to reach me <a href="rohitkapade1512@gmail.com">Email</a>     
 
@@ -36,11 +36,11 @@
 <tr valign="top">
 <td width="25%" align="center">
 <span><b>Python</b></span><br><br>
-<img height="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw2ItmXEdXuJ09ctBZ7Oj55b&ust=1710147765819000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICWrYKr6YQDFQAAAAAdAAAAABAE">
+<img height="64px" src="https://icons8.com/icon/13441/python">
 </td>
 <td width="25%" align="center">
 <span><b>ReactJS</b></span><br><br>
-<img height="64px" src="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fspring-icon-256x256-2efvkvky.png&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F4468%2Fspring-boot&tbnid=ASw-FVXaD9tkOM&vet=12ahUKEwi4s8ysxIj9AhVPKbcAHZ1xDtsQMygBegUIARDFAQ..i&docid=Z7BWvOtTRgGdXM&w=256&h=256&q=spring%20boot%20icon%20svg&ved=2ahUKEwi4s8ysxIj9AhVPKbcAHZ1xDtsQMygBegUIARDFAQ">
+<img height="64px" src="">
 </td>
 <td width="25%" align="center">
 <span><b>JAVA</b></span><br><br>
