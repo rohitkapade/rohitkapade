@@ -36,7 +36,7 @@
 <tr valign="top">
 <td width="25%" align="center">
 <span><b>Python</b></span><br><br>
-<img height="64px" src="https://icons8.com/icon/13441/python](https://github.com/rohitkapade/To_Do_App/assets/101393249/69f5460c-2085-4fda-a669-b327728d2eaf">
+<img height="64px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/101393249/311497848-69f5460c-2085-4fda-a669-b327728d2eaf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240310T091734Z&X-Amz-Expires=300&X-Amz-Signature=e94fd53eb324467eea0013188b2492b46732269bee9cf2942efbe910749f5934&X-Amz-SignedHeaders=host&actor_id=101393249&key_id=0&repo_id=769695729">
 </td>
 <td width="25%" align="center">
 <span><b>ReactJS</b></span><br><br>
