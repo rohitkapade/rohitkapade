@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Redis, Nginx**
 
-- 👨‍💻 All of my projects are available at <a href="https://rohitkapade.github.io/">Portfolio</a>                   
-
 - 💬 Ask me about **Python, Java, Javascript**
 
 - 📫 How to reach me <a href="rohitkapade1512@gmail.com">Email</a>     
